@@ -1,7 +1,7 @@
 # Hexbug Spider Arduino Camera
 
 An arduino / PC controlled Hexbug Spider with a webcam on top. Useful
-to videoconferencing.
+for videoconferencing.
 
 This code is a simple hack on top of
 https://github.com/xiam/arduino_hexbug_spider.  See that project for
